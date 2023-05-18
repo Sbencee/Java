@@ -1,0 +1,7 @@
+11;Kis B?la;1995.11.13;T?p? Nagy u. 14;320000
+12;Nagy Eszter;2000.03.15;Eger T?zk? u.55;272000
+55;Viv?th Viktor;2020.02.02;Gy?r;453645
+13;Valahol Valaki;2001.06.08;R?ts?g;654321
+99;Metroman M?rta;2005.09.07;Zs?mb?k;6523144
+87;Anni Panni;2003.03.30;J?szber?ny;864559
+89;Er?s Elem�r;2002.02.02;Szombathely;1234
